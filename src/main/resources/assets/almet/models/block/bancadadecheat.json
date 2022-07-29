@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "almet:blocks/gggbottom",
+    "up": "almet:blocks/gggtop",
+    "north": "almet:blocks/ggg",
+    "east": "almet:blocks/ggg",
+    "south": "almet:blocks/ggg",
+    "west": "almet:blocks/ggg",
+    "particle": "almet:blocks/gggbottom"
+  }
+}

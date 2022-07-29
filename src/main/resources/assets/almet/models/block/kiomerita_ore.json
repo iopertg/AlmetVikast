@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "almet:blocks/kiomeore",
+    "up": "almet:blocks/kiomeore",
+    "north": "almet:blocks/kiomeore",
+    "east": "almet:blocks/kiomeore",
+    "south": "almet:blocks/kiomeore",
+    "west": "almet:blocks/kiomeore",
+    "particle": "almet:blocks/kiomeore"
+  }
+}

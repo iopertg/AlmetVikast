@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:crafting_table"
+  },
+  "addition": {
+    "item": "almet:ametista_do_pedrux"
+  },
+  "result": {
+    "item": "minecraft:player_head"
+  }
+}

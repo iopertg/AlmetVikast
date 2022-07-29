@@ -1,0 +1,19 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "apuhagiota",
+    "name": "Arcadia - TheFatRat",
+    "description": "TheFatRat has all the rights on this Song",
+    "creativeTab": {
+      "value": "CUSTOM:AlmetTemeras"
+    },
+    "music": {
+      "value": "CUSTOM:arcadia"
+    },
+    "specialInfo": [
+      "TheFatRat has all the rights on this Song"
+    ],
+    "hasGlow": true
+  }
+}

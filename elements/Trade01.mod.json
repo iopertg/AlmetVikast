@@ -1,0 +1,33 @@
+{
+  "_fv": 28,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "WEAPONSMITH"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 29,
+            "price2": {
+              "value": "Items.NETHERITE_INGOT"
+            },
+            "countPrice2": 13,
+            "offer": {
+              "value": "CUSTOM:Kkkskksks"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 130,
+            "xp": 48,
+            "priceMultiplier": 0.09999999999999999
+          }
+        ]
+      }
+    ]
+  }
+}

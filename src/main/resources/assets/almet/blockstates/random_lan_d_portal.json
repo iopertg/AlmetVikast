@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "almet:block/random_lan_d_portal_ew"
+    },
+    "axis=x": {
+      "model": "almet:block/random_lan_d_portal_ns"
+    }
+  }
+}

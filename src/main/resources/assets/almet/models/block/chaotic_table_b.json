@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "almet:blocks/baixochaostable",
+    "up": "almet:blocks/cimachaostable",
+    "north": "almet:blocks/ladoschaostable",
+    "east": "almet:blocks/ladoschaostable",
+    "south": "almet:blocks/ladoschaostable",
+    "west": "almet:blocks/ladoschaostable",
+    "particle": "almet:blocks/baixochaostable"
+  }
+}

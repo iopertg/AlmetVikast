@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "experience": 100,
+  "cookingtime": 99,
+  "ingredient": {
+    "item": "almet:dddddd"
+  },
+  "result": "almet:random_lan_d"
+}

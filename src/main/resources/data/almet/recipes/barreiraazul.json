@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:obsidian"
+  },
+  "addition": {
+    "item": "minecraft:warped_hyphae"
+  },
+  "result": {
+    "item": "minecraft:structure_void"
+  }
+}

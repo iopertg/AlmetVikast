@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "almet:blocks/davosty",
+    "up": "almet:blocks/davosty",
+    "north": "almet:blocks/davostyside",
+    "east": "almet:blocks/davostyside",
+    "south": "almet:blocks/davostyside",
+    "west": "almet:blocks/davostyside",
+    "particle": "almet:blocks/davosty"
+  }
+}

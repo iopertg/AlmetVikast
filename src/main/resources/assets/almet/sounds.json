@@ -1,0 +1,12 @@
+{
+  "arcadia": {
+    "category": "record",
+    "subtitle": "subtitles.arcadia",
+    "sounds": [
+      {
+        "name": "almet:1056466_thefatrat-arcadia",
+        "stream": true
+      }
+    ]
+  }
+}

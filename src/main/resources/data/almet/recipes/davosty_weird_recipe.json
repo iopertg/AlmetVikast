@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "almet:madeira_de_davosty"
+    },
+    {
+      "item": "almet:madeira_de_davosty"
+    },
+    {
+      "item": "almet:madeira_de_davosty"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dragon_head",
+    "count": 1
+  }
+}

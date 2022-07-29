@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "almet:kayvmetita_bruta"
+    },
+    "1": {
+      "item": "almet:newmusicad"
+    },
+    "2": {
+      "item": "almet:ametista_do_pedrux"
+    },
+    "3": {
+      "item": "almet:kiomerita"
+    },
+    "4": {
+      "item": "almet:ametista_do_pedrux"
+    },
+    "5": {
+      "item": "almet:kayvmetita_bruta"
+    },
+    "6": {
+      "item": "minecraft:netherite_sword"
+    },
+    "7": {
+      "item": "almet:kiomerita"
+    },
+    "8": {
+      "item": "almet:kayvmetita_bruta"
+    }
+  },
+  "result": {
+    "item": "almet:dddddd",
+    "count": 1
+  }
+}

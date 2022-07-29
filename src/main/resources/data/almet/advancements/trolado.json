@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "almet:bancadadecheat"
+    },
+    "title": {
+      "translate": "advancements.trolado.title"
+    },
+    "description": {
+      "translate": "advancements.trolado.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "trolado": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "almet:bancadadecheat"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 18,
+    "function": "almet:troladofunction",
+    "recipes": [
+      "almet:kiapot_ignaitor"
+    ]
+  },
+  "parent": "almet:rootachieve"
+}

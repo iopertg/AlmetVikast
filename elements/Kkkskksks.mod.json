@@ -1,0 +1,33 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sssssss",
+    "customModelName": "Normal",
+    "name": "Picareta de Kiomerita Tratada",
+    "specialInfo": [
+      "Verdadeiro poder dá KIOMERITA!!!!1!! menos bedrok"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AlmetTemeras"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 16,
+    "efficiency": 69.0,
+    "attackSpeed": 10.0,
+    "enchantability": 999,
+    "damageVsEntity": 13.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AmetistaDoPedrux"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:warped_stem"
+    },
+    "title": {
+      "translate": "advancements.obixovaipegar.title"
+    },
+    "description": {
+      "translate": "advancements.obixovaipegar.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "obixovaipegar": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "almet:random_lan_d"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 32
+  },
+  "parent": "almet:rootachieve"
+}

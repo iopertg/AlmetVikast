@@ -1,0 +1,34 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sssssss",
+    "customModelName": "Normal",
+    "name": "Picareta de Kiomerita Não Tratada",
+    "specialInfo": [
+      "Inutilidade em pessoa? sim",
+      "Picareta de netherite piorada!"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AlmetTemeras"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 3,
+    "damageVsEntity": 4.0,
+    "usageCount": 270,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AmetistaDoPedrux"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

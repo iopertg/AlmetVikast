@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "almet:kiomerita"
+    },
+    "1": {
+      "item": "minecraft:barrier"
+    },
+    "2": {
+      "item": "almet:kiomerita"
+    },
+    "4": {
+      "item": "minecraft:ender_pearl"
+    },
+    "6": {
+      "item": "almet:ametista_do_pedrux"
+    },
+    "8": {
+      "item": "almet:ametista_do_pedrux"
+    }
+  },
+  "result": {
+    "item": "almet:random_lan_d",
+    "count": 1
+  }
+}

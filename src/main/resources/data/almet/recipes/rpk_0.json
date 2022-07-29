@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "almet:kiomerita"
+    },
+    "1": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "2": {
+      "item": "almet:kiomerita"
+    },
+    "4": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "7": {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  },
+  "result": {
+    "item": "almet:k_pickaxe",
+    "count": 1
+  }
+}

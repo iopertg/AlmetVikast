@@ -1,0 +1,20 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 100.0,
+    "cookingTime": 99,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:Dddddd"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:RandomLanD"
+    },
+    "name": "kiapot_ignaitor",
+    "namespace": "mod"
+  }
+}

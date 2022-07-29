@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.SOUL_CAMPFIRE"
+      },
+      {
+        "value": "CUSTOM:Kiomerita"
+      },
+      {
+        "value": "Blocks.SOUL_CAMPFIRE"
+      },
+      {
+        "value": "CUSTOM:AmetistaDoPedrux"
+      },
+      {
+        "value": "CUSTOM:KPickaxe"
+      },
+      {
+        "value": "CUSTOM:AmetistaDoPedrux"
+      },
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE"
+      },
+      {
+        "value": "CUSTOM:AmetistaDoPedrux"
+      },
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Kkkskksks"
+    },
+    "name": "rpk_1",
+    "namespace": "mod"
+  }
+}

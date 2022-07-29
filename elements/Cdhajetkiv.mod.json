@@ -1,0 +1,20 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 19.0,
+    "cookingTime": 126,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:AmetistaDoPedrux"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Newmusicad"
+    },
+    "name": "cdhajetkiv",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "almet:blocks/minerio1",
+    "up": "almet:blocks/minerio1",
+    "north": "almet:blocks/minerio1",
+    "east": "almet:blocks/minerio1",
+    "south": "almet:blocks/minerio1",
+    "west": "almet:blocks/minerio1",
+    "particle": "almet:blocks/minerio1"
+  }
+}

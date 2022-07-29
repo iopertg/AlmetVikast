@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "almet:madeira_de_davosty"
+    }
+  ],
+  "result": {
+    "item": "minecraft:oak_planks",
+    "count": 12
+  }
+}

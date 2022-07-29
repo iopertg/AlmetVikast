@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:soul_campfire"
+    },
+    "1": {
+      "item": "almet:kiomerita"
+    },
+    "2": {
+      "item": "minecraft:soul_campfire"
+    },
+    "3": {
+      "item": "almet:ametista_do_pedrux"
+    },
+    "4": {
+      "item": "almet:k_pickaxe"
+    },
+    "5": {
+      "item": "almet:ametista_do_pedrux"
+    },
+    "6": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "7": {
+      "item": "almet:ametista_do_pedrux"
+    },
+    "8": {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  },
+  "result": {
+    "item": "almet:kkkskksks",
+    "count": 1
+  }
+}

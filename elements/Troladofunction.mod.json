@@ -1,0 +1,9 @@
+{
+  "_fv": 28,
+  "_type": "function",
+  "definition": {
+    "code": "public class TroladofunproProcedure {\n\tpublic static void execute(LevelAccessor world, Entity entity) {\n\t\tif (entity == null)\n\t\t\treturn;\n\t\tif (!world.isClientSide()) {\n\t\t\tMinecraftServer _mcserv = ServerLifecycleHooks.getCurrentServer();\n\t\t\tif (_mcserv != null)\n\t\t\t\t_mcserv.getPlayerList().broadcastMessage(new TextComponent(\"N\\u00E3o tem poder ainda?\"), ChatType.SYSTEM, Util.NIL_UUID);\n\t\t}\n\t\tif (entity instanceof Player _player)\n\t\t\t_player.giveExperienceLevels(9);\n\t}\n}",
+    "name": "troladofunction",
+    "namespace": "mod"
+  }
+}

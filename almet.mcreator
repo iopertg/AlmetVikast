@@ -1,0 +1,555 @@
+{
+  "mod_elements": [
+    {
+      "name": "R7090",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_7090"
+    },
+    {
+      "name": "R7091",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_7091"
+    },
+    {
+      "name": "R7092",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_7092"
+    },
+    {
+      "name": "R7093",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_7093"
+    },
+    {
+      "name": "R5490",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_5490"
+    },
+    {
+      "name": "Dddddd",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddddd"
+    },
+    {
+      "name": "AlmetTemeras",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "almet_temeras"
+    },
+    {
+      "name": "WitherKiller",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wither_killer"
+    },
+    {
+      "name": "Kiomerita",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kiomerita"
+    },
+    {
+      "name": "KiomeritaOre",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kiomerita_ore"
+    },
+    {
+      "name": "AmetistaDoPedrux",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ametista_do_pedrux"
+    },
+    {
+      "name": "WKrecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "w_krecipe"
+    },
+    {
+      "name": "WKrecipe1",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "w_krecipe_1"
+    },
+    {
+      "name": "WKrecipe2",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "w_krecipe_2"
+    },
+    {
+      "name": "Newmusicad",
+      "type": "musicdisc",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "newmusicad"
+    },
+    {
+      "name": "Bancadadecheat",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bancadadecheat"
+    },
+    {
+      "name": "BCgui",
+      "type": "gui",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "b_cgui"
+    },
+    {
+      "name": "Bcguipro",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "totem",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Trolado",
+      "type": "achievement",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trolado"
+    },
+    {
+      "name": "R5463",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_5463"
+    },
+    {
+      "name": "R1890",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_1890"
+    },
+    {
+      "name": "R1891",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_1891"
+    },
+    {
+      "name": "R1892",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_1892"
+    },
+    {
+      "name": "Rootachieve",
+      "type": "achievement",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rootachieve"
+    },
+    {
+      "name": "KPickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "k_pickaxe"
+    },
+    {
+      "name": "Kkkskksks",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kkkskksks"
+    },
+    {
+      "name": "Trans",
+      "type": "painting",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trans"
+    },
+    {
+      "name": "Rpk0",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rpk_0"
+    },
+    {
+      "name": "Rpk1",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rpk_1"
+    },
+    {
+      "name": "Trade01",
+      "type": "villagertrade",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trade_01"
+    },
+    {
+      "name": "Cdhajetkiv",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cdhajetkiv"
+    },
+    {
+      "name": "RCBC112354443",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rcbc_112354443"
+    },
+    {
+      "name": "Naosei",
+      "type": "biome",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "naosei"
+    },
+    {
+      "name": "NO134123",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "no_134123"
+    },
+    {
+      "name": "KayvmetitaBruta",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kayvmetita_bruta"
+    },
+    {
+      "name": "Phantomsolution",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phantomsolution"
+    },
+    {
+      "name": "ChaoticTable",
+      "type": "gui",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chaotic_table"
+    },
+    {
+      "name": "ChaosTableFunction",
+      "type": "procedure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chaos_table_function",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RandomLanD",
+      "type": "dimension",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "random_lan_d",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "KiapotIgnaitor",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kiapot_ignaitor"
+    },
+    {
+      "name": "ChaoticTableB",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chaotic_table_b"
+    },
+    {
+      "name": "ChaosTableCrafting",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chaos_table_crafting"
+    },
+    {
+      "name": "Trans2x1",
+      "type": "painting",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trans_2x_1"
+    },
+    {
+      "name": "DDDDDDDcraftalt1",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddddd_dcraftalt_1"
+    },
+    {
+      "name": "Barreira",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barreira"
+    },
+    {
+      "name": "Barreiraazul",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barreiraazul"
+    },
+    {
+      "name": "Yk",
+      "type": "painting",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yk"
+    },
+    {
+      "name": "MadeiraDeDavosty",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "madeira_de_davosty"
+    },
+    {
+      "name": "DreamLand",
+      "type": "biome",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_land"
+    },
+    {
+      "name": "TemploDaDeusaDaAgua",
+      "type": "structure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "templo_da_deusa_da_agua"
+    },
+    {
+      "name": "Davostyplanks",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "davostyplanks",
+      "path": "~/craftsdavosty"
+    },
+    {
+      "name": "Davostyinfurnace",
+      "type": "fuel",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "davostyinfurnace",
+      "path": "~/craftsdavosty"
+    },
+    {
+      "name": "DavostyWeirdRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "davosty_weird_recipe",
+      "path": "~/craftsdavosty"
+    },
+    {
+      "name": "Troladofunction",
+      "type": "function",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "troladofunction"
+    },
+    {
+      "name": "Obixovaipegar",
+      "type": "achievement",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obixovaipegar"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "arcadia",
+      "files": [
+        "1056466_thefatrat-arcadia"
+      ],
+      "category": "record",
+      "subtitle": "TheFatRat"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabalmet_temeras": "Almet Vikast Main",
+      "biome.almet.dream_land": "Davoek Cikis",
+      "item.yk_mod.wither_killer": "Wither Killer",
+      "item.almet.wither_killer": "Wither Killer",
+      "item.almet.newmusicad": "Arcadia - TheFatRat",
+      "item.almet.k_pickaxe": "Picareta de Kiomerita Não Tratada",
+      "block.almet.bancadadecheat": "Bloco Estranho",
+      "advancements.obixovaipegar.descr": "Muitos tesouros, Muitos perigos.",
+      "item.almet.random_lan_d": "ΔΦλ ξα",
+      "item.yk_mod.dddddd": "Dddddd",
+      "advancements.rootachieve.title": "Almet Vikast",
+      "block.yk_mod.kiomerita_ore": "Kiomerita Ore",
+      "item.yk_mod.newmusicad": "Arcadia - TheFatRat",
+      "block.almet.no_134123": "minério de Kayvmetita Ψ",
+      "advancements.obixovaipegar.title": "Lascou 100%",
+      "advancements.rootachieve.descr": "Baixou! pena que não sabe traduzir o nome.",
+      "item.almet.kkkskksks": "Picareta de Kiomerita Tratada",
+      "item.almet.dddddd": "NetKiapot",
+      "item.almet.ametista_do_pedrux": "Ametista do Pedrux",
+      "item.yk_mod.kiomerita": "Kiomerita",
+      "block.almet.madeira_de_davosty": "Madeira De Davosty",
+      "item.yk_mod.ametista_do_pedrux": "Ametista do Pedrux",
+      "block.almet.kiomerita_ore": "Kiomerita Ore",
+      "item.almet.kayvmetita_bruta": "Kayvmetita Bruta",
+      "block.almet.chaotic_table_b": "Chaotic Table",
+      "biome.almet.naosei": "Hispas do Nether",
+      "advancements.trolado.title": "Poder Eminente! ops confundi",
+      "item.almet.kiomerita": "Kiomerita",
+      "subtitles.arcadia": "TheFatRat",
+      "advancements.trolado.descr": "Minério fraco, falta algo pra reforça-lo",
+      "item.yk_mod.newmusicad.desc": "TheFatRat has all the rights on this Song",
+      "item.almet.newmusicad.desc": "TheFatRat has all the rights on this Song"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "craftsdavosty",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "almet",
+    "modName": "Almet Vikast",
+    "version": "1.3.0",
+    "author": "Alezinha",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "jei"
+    ],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "TheFatRat Arcadia",
+    "modElementsPackage": "net.mcreator.ykmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

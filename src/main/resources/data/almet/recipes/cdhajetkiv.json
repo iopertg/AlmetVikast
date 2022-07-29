@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 19,
+  "cookingtime": 126,
+  "ingredient": {
+    "item": "almet:ametista_do_pedrux"
+  },
+  "result": "almet:newmusicad"
+}

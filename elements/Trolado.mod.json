@@ -1,0 +1,27 @@
+{
+  "_fv": 28,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Poder Eminente! ops confundi",
+    "achievementDescription": "Minério fraco, falta algo pra reforça-lo",
+    "achievementIcon": {
+      "value": "CUSTOM:Bancadadecheat"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "KiapotIgnaitor"
+    ],
+    "rewardFunction": "Troladofunction",
+    "rewardXP": 18,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:Rootachieve"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"block_placed\" x=\"48\" y=\"24\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Bancadadecheat</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "_fv": 28,
+  "_type": "biome",
+  "definition": {
+    "name": "Hispas do Nether",
+    "groundBlock": {
+      "value": "Blocks.WARPED_NYLIUM"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.NETHERRACK"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.DIAMOND_ORE"
+    },
+    "foliageColor": {
+      "value": -22017,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -48072,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -23898,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "music.creative"
+    },
+    "additionsSound": {
+      "value": "ambient.basalt_deltas.additions"
+    },
+    "music": {
+      "value": "record.otherside"
+    },
+    "moodSound": {
+      "value": "music.overworld.lush_caves"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "NONE",
+    "rainingPossibility": 0.7,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 1.6,
+    "spawnBiome": true,
+    "spawnBiomeNether": true,
+    "spawnInCaves": false,
+    "biomeWeight": 8,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 5,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 2,
+    "bigMushroomsChunk": 1,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 2,
+    "cactiPerChunk": 1,
+    "treesPerChunk": 3,
+    "vanillaTreeType": "Birch trees",
+    "treeType": 1,
+    "minHeight": 6,
+    "treeStem": {
+      "value": "Blocks.WARPED_STEM"
+    },
+    "treeBranch": {
+      "value": "Blocks.LEAVES#1"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": "Blocks.SOUL_LANTERN"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": true,
+    "villageType": "plains",
+    "spawnWoodlandMansion": true,
+    "spawnJungleTemple": true,
+    "spawnDesertPyramid": true,
+    "spawnSwampHut": true,
+    "spawnIgloo": true,
+    "spawnOceanMonument": true,
+    "spawnShipwreck": true,
+    "spawnShipwreckBeached": true,
+    "spawnBuriedTreasure": true,
+    "oceanRuinType": "COLD",
+    "spawnNetherBridge": true,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": true,
+    "spawnEndCity": true,
+    "spawnRuinedPortal": "SWAMP",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "MonsterRooms",
+      "InfestedStone",
+      "ExtraEmeraldOre",
+      "Lakes"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityAgeable"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}
